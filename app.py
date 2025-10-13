@@ -1,3 +1,6 @@
+import sys, os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 from fastapi import FastAPI
 import pickle
 import json
@@ -79,3 +82,6 @@ def predict(req: PredictionRequest):
     predictions = model.predict(data)
     
     return {"predictions": predictions.tolist()}
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="127.0.0.1", port=8000)

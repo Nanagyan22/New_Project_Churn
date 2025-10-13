@@ -5,10 +5,8 @@ from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 def convert_dtype(data: pd.DataFrame) -> pd.DataFrame:
     """
     Convert columns of a DataFrame to appropriate data types.
-    
     Parameters:
     df (pd.DataFrame): Input DataFrame with columns to be converted.
-    
     Returns:
     pd.DataFrame: DataFrame with converted data types.
     """
