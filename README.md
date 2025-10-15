@@ -40,4 +40,4 @@ This project provides an end‑to‑end **machine learning and data‑driven sol
 
 **⭐ If you find this project useful, please consider giving it a star!**
 ## Thank You
-![Thank You](img/Thankyou1.jpg)
+![Thank You](Thankyou1.jpg)
