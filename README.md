@@ -1,14 +1,12 @@
 ![Header](Header.png)
 # 📊 Reder Telecom Churn Prediction System
 
-> **AI‑Powered Customer Retention Platform**  
-> Built with **Python · Streamlit · Scikit‑learn · Pandas**
-
+> **Machine Learning Customer Retention Platform**  
 ---
 
 ## 🚀 Overview
 
-Reder Telecom faces a critical challenge — **predicting and preventing customer churn**.  
+Reder Telecom faces a critical challenge - **predicting and preventing customer churn**.  
 This project provides an end‑to‑end **machine learning and data‑driven solution** that helps identify customers most likely to leave, empowering targeted retention strategies.
 
 **Deliverables:**
@@ -16,6 +14,8 @@ This project provides an end‑to‑end **machine learning and data‑driven sol
 - 📈 Batch churn scoring for entire customer lists  
 - 🧠 Feature‑level interpretation for business insights  
 
+---
+![Prediction](Prediction.png)
 ---
 
 ## 🧩 Key Features
