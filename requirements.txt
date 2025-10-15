@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 matplotlib
 scikit-learn
@@ -9,3 +10,17 @@ numpy
 uvicorn
 ast
 warnings
+=======
+FastAPI
+pandas
+matplotlib
+scikit-learn
+ipyKernel
+fastapi
+seaborn
+openpyxl
+numpy
+uvicorn
+ast
+warnings
+>>>>>>> 78fad973fe1a8c1f3e15b6d8f74c8753c831540b
