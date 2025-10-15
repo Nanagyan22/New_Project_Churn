@@ -1,3 +1,4 @@
+![Header](Header.png)
 # 📊 Reder Telecom Churn Prediction System
 
 > **AI‑Powered Customer Retention Platform**  
