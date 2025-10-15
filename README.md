@@ -32,7 +32,6 @@ This project provides an end‑to‑end **machine learning and data‑driven sol
 
 **Francis Afful Gyan**    
 📧 Email: francisaffulgyan@gmail.com 
-
 🔗 LinkedIn: [https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/]  
 📅 Date: October 2025
 
