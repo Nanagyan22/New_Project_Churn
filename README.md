@@ -17,6 +17,8 @@ This project provides an end‑to‑end **machine learning and data‑driven sol
 ---
 ![Prediction](Prediction.png)
 ---
+![Model](Model.png)
+---
 
 ## 🧩 Key Features
 
