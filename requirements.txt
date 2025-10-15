@@ -1,0 +1,11 @@
+pandas
+matplotlib
+scikit-learn
+ipyKernel
+fastapi
+seaborn
+openpyxl
+numpy
+uvicorn
+ast
+warnings
