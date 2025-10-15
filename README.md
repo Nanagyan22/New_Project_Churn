@@ -34,7 +34,7 @@ This project provides an end‑to‑end **machine learning and data‑driven sol
 
 ---
 
-**🌐 Live Demo**: [https://loan-default-prediction-rural.streamlit.app/](https://loan-default-prediction-rural.streamlit.app/)
+**🌐 Live Demo**: [https://loan-default-prediction-rural.streamlit.app/](https://newprojectchurn.streamlit.app/)
 
 **📊 Project Status**: Active Development
 
